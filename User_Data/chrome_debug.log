@@ -1,0 +1,6 @@
+[8544:6164:1012/173522.567:INFO:CONSOLE(27)] "WebSocket connection to 'wss://w8.web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.2edf32bb08199be594e2.js (27)
+[8544:6164:1012/173554.136:INFO:CONSOLE(27)] "WebSocket connection to 'wss://w7.web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.2edf32bb08199be594e2.js (27)
+[8544:6164:1012/173554.137:INFO:CONSOLE(27)] "WebSocket connection to 'wss://w8.web.whatsapp.com/ws' failed: WebSocket is closed before the connection is established.", source: https://web.whatsapp.com/app.2edf32bb08199be594e2.js (27)
+[8544:6164:1012/173959.961:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[8544:6164:1012/173959.962:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[8544:6164:1012/173959.962:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
